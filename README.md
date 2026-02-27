@@ -1,5 +1,3 @@
-Đây là nội dung file README.md, bạn có thể copy và tạo file mới:
-
 ```markdown name=README.md
 # ChatbotLaw - Trợ Lý Pháp Luật Thông Minh
 
